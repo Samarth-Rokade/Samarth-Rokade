@@ -66,7 +66,7 @@ AWS • Docker • Kubernetes • GitHub Actions • Linux
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=samarth-rokade\&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-rokade\&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samarth-rokade&layout=compact)
 
 </div>
 
