@@ -14,7 +14,7 @@ Building scalable applications, exploring new technologies, and creating impactf
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/samarth-rokade)
 <!--[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge\&logo=vercel)](https://yourportfolio.com)-->
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rokadesamarth08@gmail.com@email.com)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge\&logo=gmail)](mailto:rokadesamarth08@gmail.com)
 
 </div>
 
@@ -115,7 +115,7 @@ A pixel-perfect frontend replica of the Two Good Co. website, built to showcase 
 
 I'm always interested in discussing technology, software engineering, startups, and innovative ideas.
 
-📧 [rokadesamarth08@email.com](mailto:rokadesamarth08@email.com)
+📧 [rokadesamarth08@gmail.com](mailto:rokadesamarth08@gmail.com)
 💼 LinkedIn: linkedin.com/in/samarth-rokade
 <!--🌐 Portfolio: yourportfolio.com-->
 
